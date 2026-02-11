@@ -1,0 +1,1 @@
+Edellisen komennon jälkeen sinulla pitäisi nyt olla auki vs code ja siellä luomasi markdown tiedosto. Kopioi tiedostoon seuraava teksti ja tallenna (ctrl+S pikanäppäin tallentaa tiedoston)
